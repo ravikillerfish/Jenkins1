@@ -1,1 +1,1 @@
-testing remote branch with other collaborator
+testing remote branch with other collaborator from git
